@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development**
   
-- 💬 Ask me about **Javascript, ReactJs, NodeJs, NextJs**
+- 💬 Ask me about **Javascript, ReactJs, NodeJs, ExpressJs, NextJs**
 
 - 📫 How to reach me **sakshamsharmaa03@gmail.com**
 
