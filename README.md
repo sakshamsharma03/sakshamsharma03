@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sakshamsharma03)
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Saksham Sharma.</h1>
 <h3 align="center">Ambitious entry-level engineer committed to successful project rollouts with ability to work with all types of personalities. Enthusiastic coder eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in IT industry.</h3>
